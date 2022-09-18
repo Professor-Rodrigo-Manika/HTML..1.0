@@ -1,0 +1,4 @@
+Saudações.
+Seu código está muito bem encaminhado. Há três erros no seu style.css você seria capaz de identificá-los e corrigi-los?
+Att.
+Professor Rodrigo Manika
